@@ -1,2 +1,2 @@
 # Data-Structures
-Data Structures with c using linked list
+Data Structures with c 
